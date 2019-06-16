@@ -1,4 +1,4 @@
-# SortingAlgorithms
+# Sorting_Algorithms
 Top 15 sorting algorithms
 
 Hey guys, im studying algorithms in this semestar of the year, so i thought it would be cool to have collection of sorting algorithms here.
